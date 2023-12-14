@@ -1,0 +1,11 @@
+Artist: unknown
+Title: unknown
+Album: unknown
+Tracks: 1
+---
+Track #1 instrument name: unknown
+Track #1 instrument flavour: melody instrument
+Track #1 label: Melody
+Track #1 monophonic: 1
+Track #1 number of notes: 154
+Track #1 size of rawFrequencies vector: 2511
