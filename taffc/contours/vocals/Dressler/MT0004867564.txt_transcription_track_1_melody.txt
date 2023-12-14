@@ -1,0 +1,1 @@
+midiPitch 	 onsetSec 	 durationSec 	 onsetBeats 	 onsetBarIndex 	 onsetBar 	 durationBeats 	 velocity  	 numerator 	 denominator 

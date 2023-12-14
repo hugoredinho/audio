@@ -1,0 +1,8 @@
+midiPitch 	 onsetSec 	 durationSec 	 onsetBeats 	 onsetBarIndex 	 onsetBar 	 durationBeats 	 velocity  	 numerator 	 denominator 
+63	11.9409	0.0232201	0	0	0	0	1	4	4
+59	20.4974	0.168344	0	0	0	0	1	4	4
+61	20.6658	0.104488	0	0	0	0	1	4	4
+62	20.7702	0.1161	0	0	0	0	1	4	4
+64	20.8863	0.191565	0	0	0	0	1	4	4
+65	21.0779	0.307665	0	0	0	0	1	4	4
+62	21.5191	0.156734	0	0	0	0	1	4	4
