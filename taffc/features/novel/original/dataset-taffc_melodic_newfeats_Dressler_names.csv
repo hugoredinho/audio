@@ -1,0 +1,22 @@
+featureNames
+ORIGINAL-RHYTHM-Note Duration (Mean)
+ORIGINAL-RHYTHM-Note Duration (Max)
+ORIGINAL-RHYTHM-Note Duration (Min)
+ORIGINAL-RHYTHM-Note Duration (Std)
+ORIGINAL-RHYTHM-Note Duration (Kurtosis)
+ORIGINAL-RHYTHM-Note Duration (Skewness)
+ORIGINAL-MELODY-Highest Note
+ORIGINAL-MELODY-Lowest Note
+ORIGINAL-MELODY-MIDI Notes Range
+ORIGINAL-MELODY-MIDI Notes (Mean)
+ORIGINAL-MELODY-MIDI Notes (Std)
+ORIGINAL-MELODY-MIDI Notes (Kurtosis)
+ORIGINAL-MELODY-MIDI Notes (Skewness)
+ORIGINAL-MELODY-MIDI Note Space Length
+ORIGINAL-MELODY-Chroma Note Space Length
+ORIGINAL-MELODY-Notes Smoothness (Mean)
+ORIGINAL-MELODY-Notes Smoothness (Max)
+ORIGINAL-MELODY-Notes Smoothness (Min)
+ORIGINAL-MELODY-Notes Smoothness (Std)
+ORIGINAL-MELODY-Notes Smoothness (Kurtosis)
+ORIGINAL-MELODY-Notes Smoothness (Skewness)

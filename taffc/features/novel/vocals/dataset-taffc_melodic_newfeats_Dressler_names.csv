@@ -1,0 +1,22 @@
+featureNames
+VOICE-RHYTHM-Note Duration (Mean)
+VOICE-RHYTHM-Note Duration (Max)
+VOICE-RHYTHM-Note Duration (Min)
+VOICE-RHYTHM-Note Duration (Std)
+VOICE-RHYTHM-Note Duration (Kurtosis)
+VOICE-RHYTHM-Note Duration (Skewness)
+VOICE-MELODY-Highest Note
+VOICE-MELODY-Lowest Note
+VOICE-MELODY-MIDI Notes Range
+VOICE-MELODY-MIDI Notes (Mean)
+VOICE-MELODY-MIDI Notes (Std)
+VOICE-MELODY-MIDI Notes (Kurtosis)
+VOICE-MELODY-MIDI Notes (Skewness)
+VOICE-MELODY-MIDI Note Space Length
+VOICE-MELODY-Chroma Note Space Length
+VOICE-MELODY-Notes Smoothness (Mean)
+VOICE-MELODY-Notes Smoothness (Max)
+VOICE-MELODY-Notes Smoothness (Min)
+VOICE-MELODY-Notes Smoothness (Std)
+VOICE-MELODY-Notes Smoothness (Kurtosis)
+VOICE-MELODY-Notes Smoothness (Skewness)

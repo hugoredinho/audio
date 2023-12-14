@@ -1,0 +1,43 @@
+featureNames
+ORIGINAL-VAT-Number of Voice Sections
+ORIGINAL-VAT-Number of Silence Sections
+ORIGINAL-VAT-Voice Sections Duration (Mean)
+ORIGINAL-VAT-Voice Sections Duration (Max)
+ORIGINAL-VAT-Voice Sections Duration (Min)
+ORIGINAL-VAT-Voice Sections Duration (Std)
+ORIGINAL-VAT-Voice Sections Duration (Kurtosis)
+ORIGINAL-VAT-Voice Sections Duration (Skewness)
+ORIGINAL-VAT-Silence Sections Duration (Mean)
+ORIGINAL-VAT-Silence Sections Duration (Max)
+ORIGINAL-VAT-Silence Sections Duration (Min)
+ORIGINAL-VAT-Silence Sections Duration (Std)
+ORIGINAL-VAT-Silence Sections Duration (Kurtosis)
+ORIGINAL-VAT-Silence Sections Duration (Skewness)
+ORIGINAL-VAT-Voice Segments Per Second
+ORIGINAL-VAT-Voice Segments Per Interval (Mean)
+ORIGINAL-VAT-Voice Segments Per Interval (Max)
+ORIGINAL-VAT-Voice Segments Per Interval (Min)
+ORIGINAL-VAT-Voice Segments Per Interval (Std)
+ORIGINAL-VAT-Voice Segments Per Interval (Kurtosis)
+ORIGINAL-VAT-Voice Segments Per Interval (Skewness)
+ORIGINAL-VAT-Creaky Voice Presence
+ORIGINAL-VAT-Number of Creaky Voice Sections
+ORIGINAL-VAT-Creaky Voice Duration (Mean)
+ORIGINAL-VAT-Creaky Voice Duration (Max)
+ORIGINAL-VAT-Creaky Voice Duration (Min)
+ORIGINAL-VAT-Creaky Voice Duration (Std)
+ORIGINAL-VAT-Creaky Voice Duration (Kurtosis)
+ORIGINAL-VAT-Creaky Voice Duration (Skewness)
+ORIGINAL-VAT-Creaky Voice Segments Per Second
+ORIGINAL-VAT-Creaky Voice Segments Per Interval (Mean)
+ORIGINAL-VAT-Creaky Voice Segments Per Interval (Max)
+ORIGINAL-VAT-Creaky Voice Segments Per Interval (Min)
+ORIGINAL-VAT-Creaky Voice Segments Per Interval (Std)
+ORIGINAL-VAT-Creaky Voice Segments Per Interval (Kurtosis)
+ORIGINAL-VAT-Creaky Voice Segments Per Interval (Skewness)
+ORIGINAL-VAT-Probability of Creaky Voice (Mean)
+ORIGINAL-VAT-Probability of Creaky Voice (Max)
+ORIGINAL-VAT-Probability of Creaky Voice (Min)
+ORIGINAL-VAT-Probability of Creaky Voice (Std)
+ORIGINAL-VAT-Probability of Creaky Voice (Kurtosis)
+ORIGINAL-VAT-Probability of Creaky Voice (Skewness)
