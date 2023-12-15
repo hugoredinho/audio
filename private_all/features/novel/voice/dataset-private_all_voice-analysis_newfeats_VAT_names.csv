@@ -1,0 +1,43 @@
+featureNames
+VOICE-VAT-Number of Voice Sections
+VOICE-VAT-Number of Silence Sections
+VOICE-VAT-Voice Sections Duration (Mean)
+VOICE-VAT-Voice Sections Duration (Max)
+VOICE-VAT-Voice Sections Duration (Min)
+VOICE-VAT-Voice Sections Duration (Std)
+VOICE-VAT-Voice Sections Duration (Kurtosis)
+VOICE-VAT-Voice Sections Duration (Skewness)
+VOICE-VAT-Silence Sections Duration (Mean)
+VOICE-VAT-Silence Sections Duration (Max)
+VOICE-VAT-Silence Sections Duration (Min)
+VOICE-VAT-Silence Sections Duration (Std)
+VOICE-VAT-Silence Sections Duration (Kurtosis)
+VOICE-VAT-Silence Sections Duration (Skewness)
+VOICE-VAT-Voice Segments Per Second
+VOICE-VAT-Voice Segments Per Interval (Mean)
+VOICE-VAT-Voice Segments Per Interval (Max)
+VOICE-VAT-Voice Segments Per Interval (Min)
+VOICE-VAT-Voice Segments Per Interval (Std)
+VOICE-VAT-Voice Segments Per Interval (Kurtosis)
+VOICE-VAT-Voice Segments Per Interval (Skewness)
+VOICE-VAT-Creaky Voice Presence
+VOICE-VAT-Number of Creaky Voice Sections
+VOICE-VAT-Creaky Voice Duration (Mean)
+VOICE-VAT-Creaky Voice Duration (Max)
+VOICE-VAT-Creaky Voice Duration (Min)
+VOICE-VAT-Creaky Voice Duration (Std)
+VOICE-VAT-Creaky Voice Duration (Kurtosis)
+VOICE-VAT-Creaky Voice Duration (Skewness)
+VOICE-VAT-Creaky Voice Segments Per Second
+VOICE-VAT-Creaky Voice Segments Per Interval (Mean)
+VOICE-VAT-Creaky Voice Segments Per Interval (Max)
+VOICE-VAT-Creaky Voice Segments Per Interval (Min)
+VOICE-VAT-Creaky Voice Segments Per Interval (Std)
+VOICE-VAT-Creaky Voice Segments Per Interval (Kurtosis)
+VOICE-VAT-Creaky Voice Segments Per Interval (Skewness)
+VOICE-VAT-Probability of Creaky Voice (Mean)
+VOICE-VAT-Probability of Creaky Voice (Max)
+VOICE-VAT-Probability of Creaky Voice (Min)
+VOICE-VAT-Probability of Creaky Voice (Std)
+VOICE-VAT-Probability of Creaky Voice (Kurtosis)
+VOICE-VAT-Probability of Creaky Voice (Skewness)
